@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodAppAdvanced</string>
+    <string name="foodator">الطعام</string>
+    <string name="food_delivery_app">تطبيق توصيل الطعام</string>
+    <string name="get_start">يلا نبداء</string>
+    <string name="hi_youssef">مرحبا يوسف</string>
+    <string name="order_amp_eat">اطلب وتناول طعامك</string>
+    <string name="find_your_food">"يلا بقا اختار هتاكل اي "</string>
+    <string name="free_delivery">التوصيل مجاني</string>
+    <string name="may_2_june_10">من 2 مايوا الي 10 يونيو</string>
+    <string name="order_now">اطلب الان</string>
+    <string name="categories">التصنيفات</string>
+    <string name="popular">الشائع(الاكثر مبيعا)</string>
+    <string name="home">القائمه الرئسيه</string>
+    <string name="profile">البروفيل</string>
+    <string name="support">الدعم</string>
+    <string name="settings">الاعدادات</string>
+    <string name="pizza">بيتزا</string>
+    <string name="burger">برجر</string>
+    <string name="hotDog">سجق</string>
+    <string name="drink">مشروبات غازيه</string>
+
+</resources>
